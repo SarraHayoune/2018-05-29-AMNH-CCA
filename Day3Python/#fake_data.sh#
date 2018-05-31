@@ -1,0 +1,3 @@
+#this script will generate a two column data file coomprise of 1 through 10 in one colummn, and twice that in other column
+#let's create a header
+echo ' #xaxis yaxis'> data/ linear_data.dat
